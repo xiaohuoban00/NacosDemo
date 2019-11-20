@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: nacos-config
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yml
+        prefix: ${spring.application.name}
+        namespace: 8e7959fc-60d9-42ed-bc21-a973b08c6f81
+server:
+  port: 8084

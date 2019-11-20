@@ -1,0 +1,19 @@
+server:
+  port: 9922
+spring:
+  application:
+    name: nacos-namespace-two
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+        namespace: 337e57a9-ac66-4ad2-91b3-780c0823f2d5
+        group: namespace-two-test
+      config:
+        file-extension: yml
+        server-addr: localhost:8848
+        namespace: 337e57a9-ac66-4ad2-91b3-780c0823f2d5
+        prefix: ${spring.application.name}
+        group: namespace-two-test
+  profiles:
+    active: dev

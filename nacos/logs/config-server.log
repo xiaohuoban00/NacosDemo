@@ -1,0 +1,1134 @@
+2019-11-20 10:04:45,132 INFO notifyConnectTimeout:200
+
+2019-11-20 10:04:45,133 INFO notifySocketTimeout:8000
+
+2019-11-20 10:04:45,134 INFO isHealthCheck:true
+
+2019-11-20 10:04:45,134 INFO maxHealthCheckFailCount:12
+
+2019-11-20 10:04:45,134 INFO maxContent:10485760
+
+2019-11-20 10:04:45,134 INFO spring.datasource.platform:mysql
+
+2019-11-20 10:04:45,201 INFO check master db.
+
+2019-11-20 10:04:49,662 INFO check db health.
+
+2019-11-20 10:04:55,053 INFO ServerListService address-server port:8848
+
+2019-11-20 10:04:55,053 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-11-20 10:04:55,053 WARN [serverlist] updated to [192.168.187.9]
+
+2019-11-20 10:04:55,139 WARN DumpService start
+
+2019-11-20 10:04:55,142 INFO start clear all config-info.
+
+2019-11-20 10:04:55,172 WARN clear all config-info failed.
+
+2019-11-20 10:04:55,172 WARN clear all config-info-tenant failed.
+
+2019-11-20 10:05:03,670 INFO check master db.
+
+2019-11-20 10:05:03,670 INFO check db health.
+
+2019-11-20 10:05:22,942 INFO notifyConnectTimeout:200
+
+2019-11-20 10:05:22,943 INFO notifySocketTimeout:8000
+
+2019-11-20 10:05:22,943 INFO isHealthCheck:true
+
+2019-11-20 10:05:22,943 INFO maxHealthCheckFailCount:12
+
+2019-11-20 10:05:22,943 INFO maxContent:10485760
+
+2019-11-20 10:05:22,943 INFO spring.datasource.platform:mysql
+
+2019-11-20 10:05:22,976 INFO check master db.
+
+2019-11-20 10:05:27,419 INFO check db health.
+
+2019-11-20 10:05:32,657 INFO ServerListService address-server port:8848
+
+2019-11-20 10:05:32,657 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-11-20 10:05:32,657 WARN [serverlist] updated to [192.168.187.9]
+
+2019-11-20 10:05:32,756 WARN DumpService start
+
+2019-11-20 10:05:32,759 INFO start clear all config-info.
+
+2019-11-20 10:05:32,762 WARN clear all config-info failed.
+
+2019-11-20 10:05:32,763 WARN clear all config-info-tenant failed.
+
+2019-11-20 10:05:41,427 INFO check db health.
+
+2019-11-20 10:05:41,427 INFO check master db.
+
+2019-11-20 10:05:55,547 INFO check master db.
+
+2019-11-20 10:05:59,437 INFO check db health.
+
+2019-11-20 10:06:09,713 INFO check master db.
+
+2019-11-20 10:06:13,559 INFO check db health.
+
+2019-11-20 10:06:23,779 INFO check master db.
+
+2019-11-20 10:06:27,723 INFO check db health.
+
+2019-11-20 10:06:33,741 ERROR unhealthIp:192.168.187.9, unhealthCount:13
+
+2019-11-20 10:06:37,865 INFO check master db.
+
+2019-11-20 10:06:38,742 ERROR unhealthIp:192.168.187.9, unhealthCount:14
+
+2019-11-20 10:06:41,788 INFO check db health.
+
+2019-11-20 10:06:43,742 ERROR unhealthIp:192.168.187.9, unhealthCount:15
+
+2019-11-20 10:06:48,743 ERROR unhealthIp:192.168.187.9, unhealthCount:16
+
+2019-11-20 10:06:52,017 INFO check master db.
+
+2019-11-20 10:06:53,744 ERROR unhealthIp:192.168.187.9, unhealthCount:17
+
+2019-11-20 10:06:55,875 INFO check db health.
+
+2019-11-20 10:06:58,744 ERROR unhealthIp:192.168.187.9, unhealthCount:18
+
+2019-11-20 10:07:03,746 ERROR unhealthIp:192.168.187.9, unhealthCount:19
+
+2019-11-20 10:07:06,130 INFO check master db.
+
+2019-11-20 10:07:08,746 ERROR unhealthIp:192.168.187.9, unhealthCount:20
+
+2019-11-20 10:07:10,025 INFO check db health.
+
+2019-11-20 10:07:13,747 ERROR unhealthIp:192.168.187.9, unhealthCount:21
+
+2019-11-20 10:07:18,749 ERROR unhealthIp:192.168.187.9, unhealthCount:22
+
+2019-11-20 10:07:20,223 INFO check master db.
+
+2019-11-20 10:07:23,751 ERROR unhealthIp:192.168.187.9, unhealthCount:23
+
+2019-11-20 10:07:24,139 INFO check db health.
+
+2019-11-20 10:07:28,754 ERROR unhealthIp:192.168.187.9, unhealthCount:24
+
+2019-11-20 10:07:33,754 ERROR unhealthIp:192.168.187.9, unhealthCount:25
+
+2019-11-20 10:07:34,283 INFO check master db.
+
+2019-11-20 10:07:38,232 INFO check db health.
+
+2019-11-20 10:07:38,755 ERROR unhealthIp:192.168.187.9, unhealthCount:26
+
+2019-11-20 10:07:43,756 ERROR unhealthIp:192.168.187.9, unhealthCount:27
+
+2019-11-20 10:07:48,342 INFO check master db.
+
+2019-11-20 10:07:48,755 ERROR unhealthIp:192.168.187.9, unhealthCount:28
+
+2019-11-20 10:07:52,292 INFO check db health.
+
+2019-11-20 10:07:53,757 ERROR unhealthIp:192.168.187.9, unhealthCount:29
+
+2019-11-20 10:07:58,757 ERROR unhealthIp:192.168.187.9, unhealthCount:30
+
+2019-11-20 10:08:02,392 INFO check master db.
+
+2019-11-20 10:08:03,760 ERROR unhealthIp:192.168.187.9, unhealthCount:31
+
+2019-11-20 10:08:06,351 INFO check db health.
+
+2019-11-20 10:08:08,760 ERROR unhealthIp:192.168.187.9, unhealthCount:32
+
+2019-11-20 10:08:19,268 INFO notifyConnectTimeout:200
+
+2019-11-20 10:08:19,268 INFO notifySocketTimeout:8000
+
+2019-11-20 10:08:19,268 INFO isHealthCheck:true
+
+2019-11-20 10:08:19,269 INFO maxHealthCheckFailCount:12
+
+2019-11-20 10:08:19,269 INFO maxContent:10485760
+
+2019-11-20 10:08:19,269 INFO spring.datasource.platform:mysql
+
+2019-11-20 10:08:19,302 INFO check master db.
+
+2019-11-20 10:08:19,797 INFO check db health.
+
+2019-11-20 10:08:21,055 INFO ServerListService address-server port:8848
+
+2019-11-20 10:08:21,055 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-11-20 10:08:21,056 WARN [serverlist] updated to [192.168.187.9]
+
+2019-11-20 10:08:21,140 WARN DumpService start
+
+2019-11-20 10:08:21,143 INFO start clear all config-info.
+
+2019-11-20 10:08:21,148 WARN clear all config-info failed.
+
+2019-11-20 10:08:21,149 WARN clear all config-info-tenant failed.
+
+2019-11-20 10:08:29,801 INFO check master db.
+
+2019-11-20 10:08:29,801 INFO check db health.
+
+2019-11-20 10:08:39,808 INFO check db health.
+
+2019-11-20 10:08:39,856 INFO check master db.
+
+2019-11-20 10:08:49,812 INFO check db health.
+
+2019-11-20 10:08:49,954 INFO check master db.
+
+2019-11-20 10:08:59,816 INFO check db health.
+
+2019-11-20 10:09:00,182 INFO check master db.
+
+2019-11-20 10:09:09,818 INFO check db health.
+
+2019-11-20 10:09:10,410 INFO check master db.
+
+2019-11-20 10:10:18,040 INFO notifyConnectTimeout:200
+
+2019-11-20 10:10:18,041 INFO notifySocketTimeout:8000
+
+2019-11-20 10:10:18,041 INFO isHealthCheck:true
+
+2019-11-20 10:10:18,041 INFO maxHealthCheckFailCount:12
+
+2019-11-20 10:10:18,041 INFO maxContent:10485760
+
+2019-11-20 10:10:21,201 INFO Schema 'NACOS' already exists.
+
+2019-11-20 10:10:21,320 INFO Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:21,411 INFO Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:21,494 INFO Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:21,566 INFO Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:21,648 INFO Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:21,719 INFO Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:21,791 INFO Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:21,862 INFO Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:21,935 INFO Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:22,017 INFO Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:22,089 INFO Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:22,159 INFO Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:22,231 INFO Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:22,318 INFO Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2019-11-20 10:10:22,384 INFO The statement was aborted because it would have caused a duplicate key value in a unique or primary key constraint or unique index identified by 'SQL191119114959140' defined on 'USERS'.
+
+2019-11-20 10:10:23,721 INFO ServerListService address-server port:8848
+
+2019-11-20 10:10:23,721 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-11-20 10:10:23,722 WARN [serverlist] updated to [192.168.187.9]
+
+2019-11-20 10:10:23,811 WARN DumpService start
+
+2019-11-20 10:10:23,814 INFO start clear all config-info.
+
+2019-11-20 10:10:23,819 WARN clear all config-info failed.
+
+2019-11-20 10:10:23,820 WARN clear all config-info-tenant failed.
+
+2019-11-20 10:10:23,981 INFO [all-dump] 19 / 19
+
+2019-11-20 10:10:23,981 INFO start clear all config-info-beta.
+
+2019-11-20 10:10:23,981 WARN clear all config-info-beta failed.
+
+2019-11-20 10:10:23,982 WARN clear all config-info-beta-tenant failed.
+
+2019-11-20 10:10:23,993 INFO start clear all config-info-tag.
+
+2019-11-20 10:10:23,993 WARN clear all config-info-tag failed.
+
+2019-11-20 10:10:23,993 WARN clear all config-info-tag-tenant failed.
+
+2019-11-20 10:13:35,512 INFO notifyConnectTimeout:200
+
+2019-11-20 10:13:35,512 INFO notifySocketTimeout:8000
+
+2019-11-20 10:13:35,512 INFO isHealthCheck:true
+
+2019-11-20 10:13:35,512 INFO maxHealthCheckFailCount:12
+
+2019-11-20 10:13:35,512 INFO maxContent:10485760
+
+2019-11-20 10:13:35,513 INFO spring.datasource.platform:mysql
+
+2019-11-20 10:13:35,547 INFO check master db.
+
+2019-11-20 10:13:40,025 INFO check db health.
+
+2019-11-20 10:13:45,324 INFO ServerListService address-server port:8848
+
+2019-11-20 10:13:45,324 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-11-20 10:13:45,325 WARN [serverlist] updated to [192.168.187.9]
+
+2019-11-20 10:13:45,408 WARN DumpService start
+
+2019-11-20 10:13:45,410 INFO start clear all config-info.
+
+2019-11-20 10:13:45,415 WARN clear all config-info failed.
+
+2019-11-20 10:13:45,416 WARN clear all config-info-tenant failed.
+
+2019-11-20 10:13:54,033 INFO check master db.
+
+2019-11-20 10:13:54,033 INFO check db health.
+
+2019-11-20 10:14:08,177 INFO check master db.
+
+2019-11-20 10:14:12,045 INFO check db health.
+
+2019-11-20 10:14:22,296 INFO check master db.
+
+2019-11-20 10:14:26,190 INFO check db health.
+
+2019-11-20 10:14:40,305 INFO check db health.
+
+2019-11-20 10:14:46,382 ERROR unhealthIp:192.168.187.9, unhealthCount:13
+
+2019-11-20 10:14:51,383 ERROR unhealthIp:192.168.187.9, unhealthCount:14
+
+2019-11-20 10:14:54,312 INFO check db health.
+
+2019-11-20 10:14:56,384 ERROR unhealthIp:192.168.187.9, unhealthCount:15
+
+2019-11-20 10:15:01,385 ERROR unhealthIp:192.168.187.9, unhealthCount:16
+
+2019-11-20 10:15:06,387 ERROR unhealthIp:192.168.187.9, unhealthCount:17
+
+2019-11-20 10:15:08,319 INFO check db health.
+
+2019-11-20 10:15:11,388 ERROR unhealthIp:192.168.187.9, unhealthCount:18
+
+2019-11-20 10:15:11,651 INFO check master db.
+
+2019-11-20 10:15:16,389 ERROR unhealthIp:192.168.187.9, unhealthCount:19
+
+2019-11-20 10:15:21,390 ERROR unhealthIp:192.168.187.9, unhealthCount:20
+
+2019-11-20 10:15:26,329 INFO check db health.
+
+2019-11-20 10:15:26,393 ERROR unhealthIp:192.168.187.9, unhealthCount:21
+
+2019-11-20 10:15:26,634 INFO check master db.
+
+2019-11-20 10:15:31,393 ERROR unhealthIp:192.168.187.9, unhealthCount:22
+
+2019-11-20 10:15:36,393 ERROR unhealthIp:192.168.187.9, unhealthCount:23
+
+2019-11-20 10:15:40,335 INFO check db health.
+
+2019-11-20 10:15:41,395 ERROR unhealthIp:192.168.187.9, unhealthCount:24
+
+2019-11-20 10:15:44,553 INFO check master db.
+
+2019-11-20 10:15:46,397 ERROR unhealthIp:192.168.187.9, unhealthCount:25
+
+2019-11-20 10:15:51,398 ERROR unhealthIp:192.168.187.9, unhealthCount:26
+
+2019-11-20 10:15:54,341 INFO check db health.
+
+2019-11-20 10:15:56,399 ERROR unhealthIp:192.168.187.9, unhealthCount:27
+
+2019-11-20 10:15:58,809 INFO check master db.
+
+2019-11-20 10:16:01,400 ERROR unhealthIp:192.168.187.9, unhealthCount:28
+
+2019-11-20 10:16:06,402 ERROR unhealthIp:192.168.187.9, unhealthCount:29
+
+2019-11-20 10:16:08,346 INFO check db health.
+
+2019-11-20 10:16:11,401 ERROR unhealthIp:192.168.187.9, unhealthCount:30
+
+2019-11-20 10:16:13,030 INFO check master db.
+
+2019-11-20 10:16:16,402 ERROR unhealthIp:192.168.187.9, unhealthCount:31
+
+2019-11-20 10:16:21,403 ERROR unhealthIp:192.168.187.9, unhealthCount:32
+
+2019-11-20 10:16:22,353 INFO check db health.
+
+2019-11-20 10:16:26,404 ERROR unhealthIp:192.168.187.9, unhealthCount:33
+
+2019-11-20 10:16:27,248 INFO check master db.
+
+2019-11-20 10:16:31,404 ERROR unhealthIp:192.168.187.9, unhealthCount:34
+
+2019-11-20 10:16:36,360 INFO check db health.
+
+2019-11-20 10:16:36,407 ERROR unhealthIp:192.168.187.9, unhealthCount:35
+
+2019-11-20 10:16:41,408 ERROR unhealthIp:192.168.187.9, unhealthCount:36
+
+2019-11-20 10:16:41,463 INFO check master db.
+
+2019-11-20 10:16:46,408 ERROR unhealthIp:192.168.187.9, unhealthCount:37
+
+2019-11-20 10:16:50,365 INFO check db health.
+
+2019-11-20 10:16:51,409 ERROR unhealthIp:192.168.187.9, unhealthCount:38
+
+2019-11-20 10:16:55,701 INFO check master db.
+
+2019-11-20 10:16:56,411 ERROR unhealthIp:192.168.187.9, unhealthCount:39
+
+2019-11-20 10:17:01,413 ERROR unhealthIp:192.168.187.9, unhealthCount:40
+
+2019-11-20 10:17:04,370 INFO check db health.
+
+2019-11-20 10:17:06,412 ERROR unhealthIp:192.168.187.9, unhealthCount:41
+
+2019-11-20 10:17:09,908 INFO check master db.
+
+2019-11-20 10:17:11,412 ERROR unhealthIp:192.168.187.9, unhealthCount:42
+
+2019-11-20 10:17:16,414 ERROR unhealthIp:192.168.187.9, unhealthCount:43
+
+2019-11-20 10:17:18,375 INFO check db health.
+
+2019-11-20 10:17:21,414 ERROR unhealthIp:192.168.187.9, unhealthCount:44
+
+2019-11-20 10:17:24,230 INFO check master db.
+
+2019-11-20 10:17:26,416 ERROR unhealthIp:192.168.187.9, unhealthCount:45
+
+2019-11-20 10:17:31,417 ERROR unhealthIp:192.168.187.9, unhealthCount:46
+
+2019-11-20 10:17:32,380 INFO check db health.
+
+2019-11-20 10:17:36,417 ERROR unhealthIp:192.168.187.9, unhealthCount:47
+
+2019-11-20 10:17:38,624 INFO check master db.
+
+2019-11-20 10:17:41,418 ERROR unhealthIp:192.168.187.9, unhealthCount:48
+
+2019-11-20 10:17:46,385 INFO check db health.
+
+2019-11-20 10:17:46,421 ERROR unhealthIp:192.168.187.9, unhealthCount:49
+
+2019-11-20 10:17:51,422 ERROR unhealthIp:192.168.187.9, unhealthCount:50
+
+2019-11-20 10:17:52,923 INFO check master db.
+
+2019-11-20 10:17:56,424 ERROR unhealthIp:192.168.187.9, unhealthCount:51
+
+2019-11-20 10:18:00,391 INFO check db health.
+
+2019-11-20 10:18:01,423 ERROR unhealthIp:192.168.187.9, unhealthCount:52
+
+2019-11-20 10:18:06,425 ERROR unhealthIp:192.168.187.9, unhealthCount:53
+
+2019-11-20 10:18:07,259 INFO check master db.
+
+2019-11-20 10:18:11,427 ERROR unhealthIp:192.168.187.9, unhealthCount:54
+
+2019-11-20 10:18:14,396 INFO check db health.
+
+2019-11-20 10:18:16,428 ERROR unhealthIp:192.168.187.9, unhealthCount:55
+
+2019-11-20 10:18:21,428 ERROR unhealthIp:192.168.187.9, unhealthCount:56
+
+2019-11-20 10:18:21,627 INFO check master db.
+
+2019-11-20 10:18:26,431 ERROR unhealthIp:192.168.187.9, unhealthCount:57
+
+2019-11-20 10:18:28,401 INFO check db health.
+
+2019-11-20 10:18:31,432 ERROR unhealthIp:192.168.187.9, unhealthCount:58
+
+2019-11-20 10:18:36,029 INFO check master db.
+
+2019-11-20 10:18:36,434 ERROR unhealthIp:192.168.187.9, unhealthCount:59
+
+2019-11-20 10:18:41,434 ERROR unhealthIp:192.168.187.9, unhealthCount:60
+
+2019-11-20 10:18:42,405 INFO check db health.
+
+2019-11-20 10:18:46,435 ERROR unhealthIp:192.168.187.9, unhealthCount:61
+
+2019-11-20 10:18:50,347 INFO check master db.
+
+2019-11-20 10:18:51,437 ERROR unhealthIp:192.168.187.9, unhealthCount:62
+
+2019-11-20 10:18:56,411 INFO check db health.
+
+2019-11-20 10:18:56,438 ERROR unhealthIp:192.168.187.9, unhealthCount:63
+
+2019-11-20 10:19:01,439 ERROR unhealthIp:192.168.187.9, unhealthCount:64
+
+2019-11-20 10:19:04,741 INFO check master db.
+
+2019-11-20 10:19:06,441 ERROR unhealthIp:192.168.187.9, unhealthCount:65
+
+2019-11-20 10:19:10,418 INFO check db health.
+
+2019-11-20 10:19:11,441 ERROR unhealthIp:192.168.187.9, unhealthCount:66
+
+2019-11-20 10:19:16,442 ERROR unhealthIp:192.168.187.9, unhealthCount:67
+
+2019-11-20 10:19:19,269 INFO check master db.
+
+2019-11-20 10:19:21,443 ERROR unhealthIp:192.168.187.9, unhealthCount:68
+
+2019-11-20 10:19:24,423 INFO check db health.
+
+2019-11-20 10:19:26,445 ERROR unhealthIp:192.168.187.9, unhealthCount:69
+
+2019-11-20 10:19:31,448 ERROR unhealthIp:192.168.187.9, unhealthCount:70
+
+2019-11-20 10:19:33,975 INFO check master db.
+
+2019-11-20 10:19:36,450 ERROR unhealthIp:192.168.187.9, unhealthCount:71
+
+2019-11-20 10:19:38,430 INFO check db health.
+
+2019-11-20 10:19:41,450 ERROR unhealthIp:192.168.187.9, unhealthCount:72
+
+2019-11-20 10:19:46,452 ERROR unhealthIp:192.168.187.9, unhealthCount:73
+
+2019-11-20 10:19:48,525 INFO check master db.
+
+2019-11-20 10:19:51,452 ERROR unhealthIp:192.168.187.9, unhealthCount:74
+
+2019-11-20 10:19:52,437 INFO check db health.
+
+2019-11-20 10:19:56,452 ERROR unhealthIp:192.168.187.9, unhealthCount:75
+
+2019-11-20 10:20:01,454 ERROR unhealthIp:192.168.187.9, unhealthCount:76
+
+2019-11-20 10:20:03,092 INFO check master db.
+
+2019-11-20 10:20:06,455 ERROR unhealthIp:192.168.187.9, unhealthCount:77
+
+2019-11-20 10:20:06,540 INFO check db health.
+
+2019-11-20 10:20:11,456 ERROR unhealthIp:192.168.187.9, unhealthCount:78
+
+2019-11-20 10:20:16,458 ERROR unhealthIp:192.168.187.9, unhealthCount:79
+
+2019-11-20 10:20:17,720 INFO check master db.
+
+2019-11-20 10:20:21,104 INFO check db health.
+
+2019-11-20 10:20:21,458 ERROR unhealthIp:192.168.187.9, unhealthCount:80
+
+2019-11-20 10:20:26,459 ERROR unhealthIp:192.168.187.9, unhealthCount:81
+
+2019-11-20 10:20:31,460 ERROR unhealthIp:192.168.187.9, unhealthCount:82
+
+2019-11-20 10:20:32,040 INFO check master db.
+
+2019-11-20 10:20:35,728 INFO check db health.
+
+2019-11-20 10:20:36,462 ERROR unhealthIp:192.168.187.9, unhealthCount:83
+
+2019-11-20 10:20:41,463 ERROR unhealthIp:192.168.187.9, unhealthCount:84
+
+2019-11-20 10:20:46,364 INFO check master db.
+
+2019-11-20 10:20:46,463 ERROR unhealthIp:192.168.187.9, unhealthCount:85
+
+2019-11-20 10:20:50,049 INFO check db health.
+
+2019-11-20 10:20:51,464 ERROR unhealthIp:192.168.187.9, unhealthCount:86
+
+2019-11-20 10:20:56,464 ERROR unhealthIp:192.168.187.9, unhealthCount:87
+
+2019-11-20 10:21:00,730 INFO check master db.
+
+2019-11-20 10:21:01,466 ERROR unhealthIp:192.168.187.9, unhealthCount:88
+
+2019-11-20 10:21:04,371 INFO check db health.
+
+2019-11-20 10:21:06,467 ERROR unhealthIp:192.168.187.9, unhealthCount:89
+
+2019-11-20 10:21:11,468 ERROR unhealthIp:192.168.187.9, unhealthCount:90
+
+2019-11-20 10:21:15,087 INFO check master db.
+
+2019-11-20 10:21:16,469 ERROR unhealthIp:192.168.187.9, unhealthCount:91
+
+2019-11-20 10:21:18,738 INFO check db health.
+
+2019-11-20 10:21:21,469 ERROR unhealthIp:192.168.187.9, unhealthCount:92
+
+2019-11-20 10:21:26,471 ERROR unhealthIp:192.168.187.9, unhealthCount:93
+
+2019-11-20 10:21:29,404 INFO check master db.
+
+2019-11-20 10:21:31,471 ERROR unhealthIp:192.168.187.9, unhealthCount:94
+
+2019-11-20 10:21:33,095 INFO check db health.
+
+2019-11-20 10:21:36,472 ERROR unhealthIp:192.168.187.9, unhealthCount:95
+
+2019-11-20 10:21:41,473 ERROR unhealthIp:192.168.187.9, unhealthCount:96
+
+2019-11-20 10:21:43,568 INFO check master db.
+
+2019-11-20 10:21:46,473 ERROR unhealthIp:192.168.187.9, unhealthCount:97
+
+2019-11-20 10:21:47,430 INFO check db health.
+
+2019-11-20 10:21:51,475 ERROR unhealthIp:192.168.187.9, unhealthCount:98
+
+2019-11-20 10:21:56,477 ERROR unhealthIp:192.168.187.9, unhealthCount:99
+
+2019-11-20 10:21:57,760 INFO check master db.
+
+2019-11-20 10:22:01,479 ERROR unhealthIp:192.168.187.9, unhealthCount:100
+
+2019-11-20 10:22:01,577 INFO check db health.
+
+2019-11-20 10:22:06,480 ERROR unhealthIp:192.168.187.9, unhealthCount:101
+
+2019-11-20 10:22:11,480 ERROR unhealthIp:192.168.187.9, unhealthCount:102
+
+2019-11-20 10:22:11,994 INFO check master db.
+
+2019-11-20 10:22:15,773 INFO check db health.
+
+2019-11-20 10:22:16,481 ERROR unhealthIp:192.168.187.9, unhealthCount:103
+
+2019-11-20 10:22:21,482 ERROR unhealthIp:192.168.187.9, unhealthCount:104
+
+2019-11-20 10:22:26,224 INFO check master db.
+
+2019-11-20 10:22:26,484 ERROR unhealthIp:192.168.187.9, unhealthCount:105
+
+2019-11-20 10:22:30,007 INFO check db health.
+
+2019-11-20 10:22:31,486 ERROR unhealthIp:192.168.187.9, unhealthCount:106
+
+2019-11-20 10:22:36,485 ERROR unhealthIp:192.168.187.9, unhealthCount:107
+
+2019-11-20 10:22:40,446 INFO check master db.
+
+2019-11-20 10:22:41,487 ERROR unhealthIp:192.168.187.9, unhealthCount:108
+
+2019-11-20 10:22:44,237 INFO check db health.
+
+2019-11-20 10:22:46,488 ERROR unhealthIp:192.168.187.9, unhealthCount:109
+
+2019-11-20 10:22:51,488 ERROR unhealthIp:192.168.187.9, unhealthCount:110
+
+2019-11-20 10:22:54,680 INFO check master db.
+
+2019-11-20 10:22:56,488 ERROR unhealthIp:192.168.187.9, unhealthCount:111
+
+2019-11-20 10:22:58,457 INFO check db health.
+
+2019-11-20 10:23:01,490 ERROR unhealthIp:192.168.187.9, unhealthCount:112
+
+2019-11-20 10:23:06,490 ERROR unhealthIp:192.168.187.9, unhealthCount:113
+
+2019-11-20 10:23:08,849 INFO check master db.
+
+2019-11-20 10:23:11,492 ERROR unhealthIp:192.168.187.9, unhealthCount:114
+
+2019-11-20 10:23:12,688 INFO check db health.
+
+2019-11-20 10:23:16,493 ERROR unhealthIp:192.168.187.9, unhealthCount:115
+
+2019-11-20 10:23:21,494 ERROR unhealthIp:192.168.187.9, unhealthCount:116
+
+2019-11-20 10:23:22,972 INFO check master db.
+
+2019-11-20 10:23:26,497 ERROR unhealthIp:192.168.187.9, unhealthCount:117
+
+2019-11-20 10:23:26,860 INFO check db health.
+
+2019-11-20 10:23:31,497 ERROR unhealthIp:192.168.187.9, unhealthCount:118
+
+2019-11-20 10:23:36,498 ERROR unhealthIp:192.168.187.9, unhealthCount:119
+
+2019-11-20 10:23:37,334 INFO check master db.
+
+2019-11-20 10:23:40,980 INFO check db health.
+
+2019-11-20 10:23:41,499 ERROR unhealthIp:192.168.187.9, unhealthCount:120
+
+2019-11-20 10:23:46,501 ERROR unhealthIp:192.168.187.9, unhealthCount:121
+
+2019-11-20 10:23:51,500 INFO check master db.
+
+2019-11-20 10:23:51,501 ERROR unhealthIp:192.168.187.9, unhealthCount:122
+
+2019-11-20 10:23:55,343 INFO check db health.
+
+2019-11-20 10:23:56,502 ERROR unhealthIp:192.168.187.9, unhealthCount:123
+
+2019-11-20 10:24:01,501 ERROR unhealthIp:192.168.187.9, unhealthCount:124
+
+2019-11-20 10:24:05,632 INFO check master db.
+
+2019-11-20 10:24:06,503 ERROR unhealthIp:192.168.187.9, unhealthCount:125
+
+2019-11-20 10:24:09,510 INFO check db health.
+
+2019-11-20 10:24:11,503 ERROR unhealthIp:192.168.187.9, unhealthCount:126
+
+2019-11-20 10:24:16,504 ERROR unhealthIp:192.168.187.9, unhealthCount:127
+
+2019-11-20 10:24:19,761 INFO check master db.
+
+2019-11-20 10:24:21,506 ERROR unhealthIp:192.168.187.9, unhealthCount:128
+
+2019-11-20 10:24:23,644 INFO check db health.
+
+2019-11-20 10:24:26,507 ERROR unhealthIp:192.168.187.9, unhealthCount:129
+
+2019-11-20 10:24:31,509 ERROR unhealthIp:192.168.187.9, unhealthCount:130
+
+2019-11-20 10:24:33,931 INFO check master db.
+
+2019-11-20 10:24:36,509 ERROR unhealthIp:192.168.187.9, unhealthCount:131
+
+2019-11-20 10:24:37,766 INFO check db health.
+
+2019-11-20 10:24:41,511 ERROR unhealthIp:192.168.187.9, unhealthCount:132
+
+2019-11-20 10:24:46,510 ERROR unhealthIp:192.168.187.9, unhealthCount:133
+
+2019-11-20 10:24:48,068 INFO check master db.
+
+2019-11-20 10:24:51,512 ERROR unhealthIp:192.168.187.9, unhealthCount:134
+
+2019-11-20 10:24:51,940 INFO check db health.
+
+2019-11-20 10:24:56,513 ERROR unhealthIp:192.168.187.9, unhealthCount:135
+
+2019-11-20 10:25:01,515 ERROR unhealthIp:192.168.187.9, unhealthCount:136
+
+2019-11-20 10:25:02,268 INFO check master db.
+
+2019-11-20 10:25:06,074 INFO check db health.
+
+2019-11-20 10:25:06,517 ERROR unhealthIp:192.168.187.9, unhealthCount:137
+
+2019-11-20 10:25:11,517 ERROR unhealthIp:192.168.187.9, unhealthCount:138
+
+2019-11-20 10:25:16,502 INFO check master db.
+
+2019-11-20 10:25:16,519 ERROR unhealthIp:192.168.187.9, unhealthCount:139
+
+2019-11-20 10:25:20,279 INFO check db health.
+
+2019-11-20 10:25:21,521 ERROR unhealthIp:192.168.187.9, unhealthCount:140
+
+2019-11-20 10:25:26,522 ERROR unhealthIp:192.168.187.9, unhealthCount:141
+
+2019-11-20 10:25:30,779 INFO check master db.
+
+2019-11-20 10:25:31,524 ERROR unhealthIp:192.168.187.9, unhealthCount:142
+
+2019-11-20 10:25:34,516 INFO check db health.
+
+2019-11-20 10:25:36,525 ERROR unhealthIp:192.168.187.9, unhealthCount:143
+
+2019-11-20 10:25:41,527 ERROR unhealthIp:192.168.187.9, unhealthCount:144
+
+2019-11-20 10:25:44,962 INFO check master db.
+
+2019-11-20 10:25:46,527 ERROR unhealthIp:192.168.187.9, unhealthCount:145
+
+2019-11-20 10:25:48,789 INFO check db health.
+
+2019-11-20 10:25:51,528 ERROR unhealthIp:192.168.187.9, unhealthCount:146
+
+2019-11-20 10:25:56,530 ERROR unhealthIp:192.168.187.9, unhealthCount:147
+
+2019-11-20 10:25:59,150 INFO check master db.
+
+2019-11-20 10:26:01,532 ERROR unhealthIp:192.168.187.9, unhealthCount:148
+
+2019-11-20 10:26:02,972 INFO check db health.
+
+2019-11-20 10:26:06,534 ERROR unhealthIp:192.168.187.9, unhealthCount:149
+
+2019-11-20 10:26:11,535 ERROR unhealthIp:192.168.187.9, unhealthCount:150
+
+2019-11-20 10:26:13,355 INFO check master db.
+
+2019-11-20 10:26:16,537 ERROR unhealthIp:192.168.187.9, unhealthCount:151
+
+2019-11-20 10:26:17,160 INFO check db health.
+
+2019-11-20 10:26:21,539 ERROR unhealthIp:192.168.187.9, unhealthCount:152
+
+2019-11-20 10:26:26,540 ERROR unhealthIp:192.168.187.9, unhealthCount:153
+
+2019-11-20 10:26:27,726 INFO check master db.
+
+2019-11-20 10:26:31,367 INFO check db health.
+
+2019-11-20 10:26:31,541 ERROR unhealthIp:192.168.187.9, unhealthCount:154
+
+2019-11-20 10:26:36,541 ERROR unhealthIp:192.168.187.9, unhealthCount:155
+
+2019-11-20 10:26:41,541 ERROR unhealthIp:192.168.187.9, unhealthCount:156
+
+2019-11-20 10:26:42,012 INFO check master db.
+
+2019-11-20 10:26:45,736 INFO check db health.
+
+2019-11-20 10:26:46,542 ERROR unhealthIp:192.168.187.9, unhealthCount:157
+
+2019-11-20 10:26:51,542 ERROR unhealthIp:192.168.187.9, unhealthCount:158
+
+2019-11-20 10:26:56,338 INFO check master db.
+
+2019-11-20 10:26:56,543 ERROR unhealthIp:192.168.187.9, unhealthCount:159
+
+2019-11-20 10:27:00,023 INFO check db health.
+
+2019-11-20 10:27:01,544 ERROR unhealthIp:192.168.187.9, unhealthCount:160
+
+2019-11-20 10:27:06,546 ERROR unhealthIp:192.168.187.9, unhealthCount:161
+
+2019-11-20 10:27:10,537 INFO check master db.
+
+2019-11-20 10:27:11,547 ERROR unhealthIp:192.168.187.9, unhealthCount:162
+
+2019-11-20 10:27:14,348 INFO check db health.
+
+2019-11-20 10:27:16,548 ERROR unhealthIp:192.168.187.9, unhealthCount:163
+
+2019-11-20 10:27:21,549 ERROR unhealthIp:192.168.187.9, unhealthCount:164
+
+2019-11-20 10:27:24,670 INFO check master db.
+
+2019-11-20 10:27:26,551 ERROR unhealthIp:192.168.187.9, unhealthCount:165
+
+2019-11-20 10:27:28,542 INFO check db health.
+
+2019-11-20 10:27:31,552 ERROR unhealthIp:192.168.187.9, unhealthCount:166
+
+2019-11-20 10:27:36,553 ERROR unhealthIp:192.168.187.9, unhealthCount:167
+
+2019-11-20 10:27:38,987 INFO check master db.
+
+2019-11-20 10:27:41,556 ERROR unhealthIp:192.168.187.9, unhealthCount:168
+
+2019-11-20 10:27:42,682 INFO check db health.
+
+2019-11-20 10:27:46,557 ERROR unhealthIp:192.168.187.9, unhealthCount:169
+
+2019-11-20 10:27:51,558 ERROR unhealthIp:192.168.187.9, unhealthCount:170
+
+2019-11-20 10:27:53,223 INFO check master db.
+
+2019-11-20 10:27:56,560 ERROR unhealthIp:192.168.187.9, unhealthCount:171
+
+2019-11-20 10:27:56,997 INFO check db health.
+
+2019-11-20 10:28:01,561 ERROR unhealthIp:192.168.187.9, unhealthCount:172
+
+2019-11-20 10:28:06,562 ERROR unhealthIp:192.168.187.9, unhealthCount:173
+
+2019-11-20 10:28:07,454 INFO check master db.
+
+2019-11-20 10:28:11,234 INFO check db health.
+
+2019-11-20 10:28:11,564 ERROR unhealthIp:192.168.187.9, unhealthCount:174
+
+2019-11-20 10:28:16,566 ERROR unhealthIp:192.168.187.9, unhealthCount:175
+
+2019-11-20 10:28:21,567 ERROR unhealthIp:192.168.187.9, unhealthCount:176
+
+2019-11-20 10:28:21,696 INFO check master db.
+
+2019-11-20 10:28:25,466 INFO check db health.
+
+2019-11-20 10:28:26,568 ERROR unhealthIp:192.168.187.9, unhealthCount:177
+
+2019-11-20 10:28:31,568 ERROR unhealthIp:192.168.187.9, unhealthCount:178
+
+2019-11-20 10:28:35,866 INFO check master db.
+
+2019-11-20 10:28:36,570 ERROR unhealthIp:192.168.187.9, unhealthCount:179
+
+2019-11-20 10:28:39,704 INFO check db health.
+
+2019-11-20 10:28:41,572 ERROR unhealthIp:192.168.187.9, unhealthCount:180
+
+2019-11-20 10:28:46,572 ERROR unhealthIp:192.168.187.9, unhealthCount:181
+
+2019-11-20 10:28:50,084 INFO check master db.
+
+2019-11-20 10:28:51,574 ERROR unhealthIp:192.168.187.9, unhealthCount:182
+
+2019-11-20 10:28:53,878 INFO check db health.
+
+2019-11-20 10:28:56,576 ERROR unhealthIp:192.168.187.9, unhealthCount:183
+
+2019-11-20 10:29:01,577 ERROR unhealthIp:192.168.187.9, unhealthCount:184
+
+2019-11-20 10:29:04,761 INFO check master db.
+
+2019-11-20 10:29:06,577 ERROR unhealthIp:192.168.187.9, unhealthCount:185
+
+2019-11-20 10:29:08,095 INFO check db health.
+
+2019-11-20 10:29:11,578 ERROR unhealthIp:192.168.187.9, unhealthCount:186
+
+2019-11-20 10:29:16,578 ERROR unhealthIp:192.168.187.9, unhealthCount:187
+
+2019-11-20 10:29:19,004 INFO check master db.
+
+2019-11-20 10:29:21,579 ERROR unhealthIp:192.168.187.9, unhealthCount:188
+
+2019-11-20 10:29:22,769 INFO check db health.
+
+2019-11-20 10:29:26,580 ERROR unhealthIp:192.168.187.9, unhealthCount:189
+
+2019-11-20 10:29:31,581 ERROR unhealthIp:192.168.187.9, unhealthCount:190
+
+2019-11-20 10:29:33,228 INFO check master db.
+
+2019-11-20 10:29:36,581 ERROR unhealthIp:192.168.187.9, unhealthCount:191
+
+2019-11-20 10:29:37,014 INFO check db health.
+
+2019-11-20 10:29:41,584 ERROR unhealthIp:192.168.187.9, unhealthCount:192
+
+2019-11-20 10:29:46,586 ERROR unhealthIp:192.168.187.9, unhealthCount:193
+
+2019-11-20 10:29:47,480 INFO check master db.
+
+2019-11-20 10:29:51,236 INFO check db health.
+
+2019-11-20 10:29:51,589 ERROR unhealthIp:192.168.187.9, unhealthCount:194
+
+2019-11-20 10:29:56,590 ERROR unhealthIp:192.168.187.9, unhealthCount:195
+
+2019-11-20 10:30:01,590 ERROR unhealthIp:192.168.187.9, unhealthCount:196
+
+2019-11-20 10:30:01,715 INFO check master db.
+
+2019-11-20 10:30:05,489 INFO check db health.
+
+2019-11-20 10:30:06,591 ERROR unhealthIp:192.168.187.9, unhealthCount:197
+
+2019-11-20 10:30:11,593 ERROR unhealthIp:192.168.187.9, unhealthCount:198
+
+2019-11-20 10:30:15,920 INFO check master db.
+
+2019-11-20 10:30:16,594 ERROR unhealthIp:192.168.187.9, unhealthCount:199
+
+2019-11-20 10:30:19,728 INFO check db health.
+
+2019-11-20 10:30:21,595 ERROR unhealthIp:192.168.187.9, unhealthCount:200
+
+2019-11-20 10:30:26,596 ERROR unhealthIp:192.168.187.9, unhealthCount:201
+
+2019-11-20 10:30:30,164 INFO check master db.
+
+2019-11-20 10:30:31,598 ERROR unhealthIp:192.168.187.9, unhealthCount:202
+
+2019-11-20 10:30:33,929 INFO check db health.
+
+2019-11-20 10:30:36,599 ERROR unhealthIp:192.168.187.9, unhealthCount:203
+
+2019-11-20 10:30:41,611 ERROR unhealthIp:192.168.187.9, unhealthCount:204
+
+2019-11-20 10:30:44,437 INFO check master db.
+
+2019-11-20 10:30:46,604 ERROR unhealthIp:192.168.187.9, unhealthCount:205
+
+2019-11-20 10:30:48,174 INFO check db health.
+
+2019-11-20 10:30:51,605 ERROR unhealthIp:192.168.187.9, unhealthCount:206
+
+2019-11-20 10:30:56,606 ERROR unhealthIp:192.168.187.9, unhealthCount:207
+
+2019-11-20 10:30:58,676 INFO check master db.
+
+2019-11-20 10:31:01,606 ERROR unhealthIp:192.168.187.9, unhealthCount:208
+
+2019-11-20 10:31:02,447 INFO check db health.
+
+2019-11-20 10:31:06,609 ERROR unhealthIp:192.168.187.9, unhealthCount:209
+
+2019-11-20 10:31:11,609 ERROR unhealthIp:192.168.187.9, unhealthCount:210
+
+2019-11-20 10:31:12,954 INFO check master db.
+
+2019-11-20 10:31:16,610 ERROR unhealthIp:192.168.187.9, unhealthCount:211
+
+2019-11-20 10:31:16,688 INFO check db health.
+
+2019-11-20 10:31:21,612 ERROR unhealthIp:192.168.187.9, unhealthCount:212
+
+2019-11-20 10:31:26,614 ERROR unhealthIp:192.168.187.9, unhealthCount:213
+
+2019-11-20 10:31:27,081 INFO check master db.
+
+2019-11-20 10:31:30,962 INFO check db health.
+
+2019-11-20 10:31:31,617 ERROR unhealthIp:192.168.187.9, unhealthCount:214
+
+2019-11-20 10:31:36,617 ERROR unhealthIp:192.168.187.9, unhealthCount:215
+
+2019-11-20 10:31:41,311 INFO check master db.
+
+2019-11-20 10:31:41,619 ERROR unhealthIp:192.168.187.9, unhealthCount:216
+
+2019-11-20 10:31:45,089 INFO check db health.
+
+2019-11-20 10:31:46,618 ERROR unhealthIp:192.168.187.9, unhealthCount:217
+
+2019-11-20 10:31:51,620 ERROR unhealthIp:192.168.187.9, unhealthCount:218
+
+2019-11-20 10:31:55,476 INFO check master db.
+
+2019-11-20 10:31:56,621 ERROR unhealthIp:192.168.187.9, unhealthCount:219
+
+2019-11-20 10:31:59,321 INFO check db health.
+
+2019-11-20 10:32:01,622 ERROR unhealthIp:192.168.187.9, unhealthCount:220
+
+2019-11-20 10:32:06,623 ERROR unhealthIp:192.168.187.9, unhealthCount:221
+
+2019-11-20 10:32:09,602 INFO check master db.
+
+2019-11-20 10:32:11,623 ERROR unhealthIp:192.168.187.9, unhealthCount:222
+
+2019-11-20 10:32:13,485 INFO check db health.
+
+2019-11-20 10:32:16,626 ERROR unhealthIp:192.168.187.9, unhealthCount:223
+
+2019-11-20 10:32:21,628 ERROR unhealthIp:192.168.187.9, unhealthCount:224
+
+2019-11-20 10:32:23,775 INFO check master db.
+
+2019-11-20 10:32:26,630 ERROR unhealthIp:192.168.187.9, unhealthCount:225
+
+2019-11-20 10:32:27,610 INFO check db health.
+
+2019-11-20 10:32:31,631 ERROR unhealthIp:192.168.187.9, unhealthCount:226
+
+2019-11-20 10:32:36,633 ERROR unhealthIp:192.168.187.9, unhealthCount:227
+
+2019-11-20 10:32:37,888 INFO check master db.
+
+2019-11-20 10:32:41,634 ERROR unhealthIp:192.168.187.9, unhealthCount:228
+
+2019-11-20 10:32:41,783 INFO check db health.
+
+2019-11-20 10:32:46,634 ERROR unhealthIp:192.168.187.9, unhealthCount:229
+
+2019-11-20 10:32:51,636 ERROR unhealthIp:192.168.187.9, unhealthCount:230
+
+2019-11-20 10:32:52,163 INFO check master db.
+
+2019-11-20 10:32:55,899 INFO check db health.
+
+2019-11-20 10:32:56,636 ERROR unhealthIp:192.168.187.9, unhealthCount:231
+
+2019-11-20 10:33:01,656 ERROR unhealthIp:192.168.187.9, unhealthCount:232
+
+2019-11-20 10:33:06,525 INFO check master db.
+
+2019-11-20 10:33:06,658 ERROR unhealthIp:192.168.187.9, unhealthCount:233
+
+2019-11-20 10:33:10,171 INFO check db health.
+
+2019-11-20 10:33:11,662 ERROR unhealthIp:192.168.187.9, unhealthCount:234
+
+2019-11-20 10:33:41,427 INFO notifyConnectTimeout:200
+
+2019-11-20 10:33:41,427 INFO notifySocketTimeout:8000
+
+2019-11-20 10:33:41,427 INFO isHealthCheck:true
+
+2019-11-20 10:33:41,427 INFO maxHealthCheckFailCount:12
+
+2019-11-20 10:33:41,427 INFO maxContent:10485760
+
+2019-11-20 10:33:43,045 INFO Schema 'NACOS' already exists.
+
+2019-11-20 10:33:43,295 INFO Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:43,448 INFO Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:43,543 INFO Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:43,613 INFO Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:43,687 INFO Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:43,757 INFO Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:43,827 INFO Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:43,924 INFO Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:44,086 INFO Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:44,169 INFO Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:44,239 INFO Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:44,322 INFO Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:44,405 INFO Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:44,488 INFO Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2019-11-20 10:33:44,662 INFO The statement was aborted because it would have caused a duplicate key value in a unique or primary key constraint or unique index identified by 'SQL191119114959140' defined on 'USERS'.
+
+2019-11-20 10:33:46,962 INFO ServerListService address-server port:8848
+
+2019-11-20 10:33:46,962 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2019-11-20 10:33:46,963 WARN [serverlist] updated to [192.168.187.9]
+
+2019-11-20 10:33:47,096 WARN DumpService start
+
+2019-11-20 10:33:47,106 INFO start clear all config-info.
+
+2019-11-20 10:33:47,117 WARN clear all config-info failed.
+
+2019-11-20 10:33:47,118 WARN clear all config-info-tenant failed.
+
+2019-11-20 10:33:47,405 INFO [all-dump] 19 / 19
+
+2019-11-20 10:33:47,405 INFO start clear all config-info-beta.
+
+2019-11-20 10:33:47,406 WARN clear all config-info-beta failed.
+
+2019-11-20 10:33:47,406 WARN clear all config-info-beta-tenant failed.
+
+2019-11-20 10:33:47,428 INFO start clear all config-info-tag.
+
+2019-11-20 10:33:47,429 WARN clear all config-info-tag failed.
+
+2019-11-20 10:33:47,429 WARN clear all config-info-tag-tenant failed.
+

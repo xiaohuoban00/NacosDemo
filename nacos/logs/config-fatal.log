@@ -1,0 +1,440 @@
+2019-11-20 10:04:49,631 ERROR [master-db] master db not found.
+
+2019-11-20 10:04:53,668 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:04:55,053 WARN useAddressServer:true
+
+2019-11-20 10:04:55,142 WARN isQuickStart:false
+
+2019-11-20 10:04:55,192 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-11-20 10:05:07,676 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:05:27,415 ERROR [master-db] master db not found.
+
+2019-11-20 10:05:31,425 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:05:32,657 WARN useAddressServer:true
+
+2019-11-20 10:05:32,759 WARN isQuickStart:false
+
+2019-11-20 10:05:32,781 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-11-20 10:05:45,546 ERROR [master-db] master db not found.
+
+2019-11-20 10:05:49,437 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:05:59,711 ERROR [master-db] master db not found.
+
+2019-11-20 10:06:03,557 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:06:13,777 ERROR [master-db] master db not found.
+
+2019-11-20 10:06:17,721 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:06:27,864 ERROR [master-db] master db not found.
+
+2019-11-20 10:06:31,787 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:06:42,016 ERROR [master-db] master db not found.
+
+2019-11-20 10:06:45,873 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:06:56,129 ERROR [master-db] master db not found.
+
+2019-11-20 10:07:00,023 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:07:10,222 ERROR [master-db] master db not found.
+
+2019-11-20 10:07:14,138 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:07:24,282 ERROR [master-db] master db not found.
+
+2019-11-20 10:07:28,231 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:07:38,341 ERROR [master-db] master db not found.
+
+2019-11-20 10:07:42,292 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:07:52,391 ERROR [master-db] master db not found.
+
+2019-11-20 10:07:56,349 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:08:06,445 ERROR [master-db] master db not found.
+
+2019-11-20 10:08:10,401 ERROR [db-error] master db 127.0.0.1 down.
+
+2019-11-20 10:08:19,791 ERROR [master-db] master db not found.
+
+2019-11-20 10:08:19,799 ERROR [db-error] master db  down.
+
+2019-11-20 10:08:21,055 WARN useAddressServer:true
+
+2019-11-20 10:08:21,142 WARN isQuickStart:false
+
+2019-11-20 10:08:21,175 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-11-20 10:08:29,807 ERROR [db-error] master db  down.
+
+2019-11-20 10:08:29,855 ERROR [master-db] master db not found.
+
+2019-11-20 10:08:39,810 ERROR [db-error] master db  down.
+
+2019-11-20 10:08:39,954 ERROR [master-db] master db not found.
+
+2019-11-20 10:08:49,814 ERROR [db-error] master db  down.
+
+2019-11-20 10:08:50,180 ERROR [master-db] master db not found.
+
+2019-11-20 10:08:59,818 ERROR [db-error] master db  down.
+
+2019-11-20 10:09:00,408 ERROR [master-db] master db not found.
+
+2019-11-20 10:09:09,819 ERROR [db-error] master db  down.
+
+2019-11-20 10:09:10,647 ERROR [master-db] master db not found.
+
+2019-11-20 10:10:23,721 WARN useAddressServer:true
+
+2019-11-20 10:10:23,814 WARN isQuickStart:false
+
+2019-11-20 10:13:40,020 ERROR [master-db] master db not found.
+
+2019-11-20 10:13:44,030 ERROR [db-error] master db  down.
+
+2019-11-20 10:13:45,324 WARN useAddressServer:true
+
+2019-11-20 10:13:45,410 WARN isQuickStart:false
+
+2019-11-20 10:13:45,435 ERROR Nacos Server did not start because dumpservice bean construction failure :
+No DataSource set
+
+2019-11-20 10:13:58,176 ERROR [master-db] master db not found.
+
+2019-11-20 10:14:02,043 ERROR [db-error] master db  down.
+
+2019-11-20 10:14:12,296 ERROR [master-db] master db not found.
+
+2019-11-20 10:14:16,187 ERROR [db-error] master db  down.
+
+2019-11-20 10:14:30,304 ERROR [db-error] master db  down.
+
+2019-11-20 10:14:44,310 ERROR [db-error] master db  down.
+
+2019-11-20 10:14:58,318 ERROR [db-error] master db  down.
+
+2019-11-20 10:15:01,650 ERROR [master-db] master db not found.
+
+2019-11-20 10:15:16,327 ERROR [db-error] master db  down.
+
+2019-11-20 10:15:16,633 ERROR [master-db] master db not found.
+
+2019-11-20 10:15:30,333 ERROR [db-error] master db  down.
+
+2019-11-20 10:15:34,552 ERROR [master-db] master db not found.
+
+2019-11-20 10:15:44,340 ERROR [db-error] master db  down.
+
+2019-11-20 10:15:48,807 ERROR [master-db] master db not found.
+
+2019-11-20 10:15:58,345 ERROR [db-error] master db  down.
+
+2019-11-20 10:16:03,029 ERROR [master-db] master db not found.
+
+2019-11-20 10:16:12,351 ERROR [db-error] master db  down.
+
+2019-11-20 10:16:17,246 ERROR [master-db] master db not found.
+
+2019-11-20 10:16:26,358 ERROR [db-error] master db  down.
+
+2019-11-20 10:16:31,462 ERROR [master-db] master db not found.
+
+2019-11-20 10:16:40,363 ERROR [db-error] master db  down.
+
+2019-11-20 10:16:45,700 ERROR [master-db] master db not found.
+
+2019-11-20 10:16:54,369 ERROR [db-error] master db  down.
+
+2019-11-20 10:16:59,907 ERROR [master-db] master db not found.
+
+2019-11-20 10:17:08,375 ERROR [db-error] master db  down.
+
+2019-11-20 10:17:14,229 ERROR [master-db] master db not found.
+
+2019-11-20 10:17:22,379 ERROR [db-error] master db  down.
+
+2019-11-20 10:17:28,624 ERROR [master-db] master db not found.
+
+2019-11-20 10:17:36,384 ERROR [db-error] master db  down.
+
+2019-11-20 10:17:42,923 ERROR [master-db] master db not found.
+
+2019-11-20 10:17:50,390 ERROR [db-error] master db  down.
+
+2019-11-20 10:17:57,257 ERROR [master-db] master db not found.
+
+2019-11-20 10:18:04,394 ERROR [db-error] master db  down.
+
+2019-11-20 10:18:11,625 ERROR [master-db] master db not found.
+
+2019-11-20 10:18:18,400 ERROR [db-error] master db  down.
+
+2019-11-20 10:18:26,027 ERROR [master-db] master db not found.
+
+2019-11-20 10:18:32,404 ERROR [db-error] master db  down.
+
+2019-11-20 10:18:40,346 ERROR [master-db] master db not found.
+
+2019-11-20 10:18:46,409 ERROR [db-error] master db  down.
+
+2019-11-20 10:18:54,739 ERROR [master-db] master db not found.
+
+2019-11-20 10:19:00,416 ERROR [db-error] master db  down.
+
+2019-11-20 10:19:09,267 ERROR [master-db] master db not found.
+
+2019-11-20 10:19:14,422 ERROR [db-error] master db  down.
+
+2019-11-20 10:19:23,975 ERROR [master-db] master db not found.
+
+2019-11-20 10:19:28,428 ERROR [db-error] master db  down.
+
+2019-11-20 10:19:38,525 ERROR [master-db] master db not found.
+
+2019-11-20 10:19:42,435 ERROR [db-error] master db  down.
+
+2019-11-20 10:19:53,091 ERROR [master-db] master db not found.
+
+2019-11-20 10:19:56,538 ERROR [db-error] master db  down.
+
+2019-11-20 10:20:07,717 ERROR [master-db] master db not found.
+
+2019-11-20 10:20:11,103 ERROR [db-error] master db  down.
+
+2019-11-20 10:20:22,038 ERROR [master-db] master db not found.
+
+2019-11-20 10:20:25,727 ERROR [db-error] master db  down.
+
+2019-11-20 10:20:36,363 ERROR [master-db] master db not found.
+
+2019-11-20 10:20:40,048 ERROR [db-error] master db  down.
+
+2019-11-20 10:20:50,729 ERROR [master-db] master db not found.
+
+2019-11-20 10:20:54,370 ERROR [db-error] master db  down.
+
+2019-11-20 10:21:05,085 ERROR [master-db] master db not found.
+
+2019-11-20 10:21:08,737 ERROR [db-error] master db  down.
+
+2019-11-20 10:21:19,403 ERROR [master-db] master db not found.
+
+2019-11-20 10:21:23,094 ERROR [db-error] master db  down.
+
+2019-11-20 10:21:33,567 ERROR [master-db] master db not found.
+
+2019-11-20 10:21:37,428 ERROR [db-error] master db  down.
+
+2019-11-20 10:21:47,759 ERROR [master-db] master db not found.
+
+2019-11-20 10:21:51,576 ERROR [db-error] master db  down.
+
+2019-11-20 10:22:01,992 ERROR [master-db] master db not found.
+
+2019-11-20 10:22:05,772 ERROR [db-error] master db  down.
+
+2019-11-20 10:22:16,222 ERROR [master-db] master db not found.
+
+2019-11-20 10:22:20,004 ERROR [db-error] master db  down.
+
+2019-11-20 10:22:30,444 ERROR [master-db] master db not found.
+
+2019-11-20 10:22:34,235 ERROR [db-error] master db  down.
+
+2019-11-20 10:22:44,679 ERROR [master-db] master db not found.
+
+2019-11-20 10:22:48,455 ERROR [db-error] master db  down.
+
+2019-11-20 10:22:58,848 ERROR [master-db] master db not found.
+
+2019-11-20 10:23:02,686 ERROR [db-error] master db  down.
+
+2019-11-20 10:23:12,972 ERROR [master-db] master db not found.
+
+2019-11-20 10:23:16,857 ERROR [db-error] master db  down.
+
+2019-11-20 10:23:27,332 ERROR [master-db] master db not found.
+
+2019-11-20 10:23:30,979 ERROR [db-error] master db  down.
+
+2019-11-20 10:23:41,500 ERROR [master-db] master db not found.
+
+2019-11-20 10:23:45,342 ERROR [db-error] master db  down.
+
+2019-11-20 10:23:55,630 ERROR [master-db] master db not found.
+
+2019-11-20 10:23:59,509 ERROR [db-error] master db  down.
+
+2019-11-20 10:24:09,760 ERROR [master-db] master db not found.
+
+2019-11-20 10:24:13,641 ERROR [db-error] master db  down.
+
+2019-11-20 10:24:23,931 ERROR [master-db] master db not found.
+
+2019-11-20 10:24:27,765 ERROR [db-error] master db  down.
+
+2019-11-20 10:24:38,067 ERROR [master-db] master db not found.
+
+2019-11-20 10:24:41,938 ERROR [db-error] master db  down.
+
+2019-11-20 10:24:52,267 ERROR [master-db] master db not found.
+
+2019-11-20 10:24:56,074 ERROR [db-error] master db  down.
+
+2019-11-20 10:25:06,500 ERROR [master-db] master db not found.
+
+2019-11-20 10:25:10,277 ERROR [db-error] master db  down.
+
+2019-11-20 10:25:20,779 ERROR [master-db] master db not found.
+
+2019-11-20 10:25:24,514 ERROR [db-error] master db  down.
+
+2019-11-20 10:25:34,960 ERROR [master-db] master db not found.
+
+2019-11-20 10:25:38,788 ERROR [db-error] master db  down.
+
+2019-11-20 10:25:49,149 ERROR [master-db] master db not found.
+
+2019-11-20 10:25:52,971 ERROR [db-error] master db  down.
+
+2019-11-20 10:26:03,354 ERROR [master-db] master db not found.
+
+2019-11-20 10:26:07,159 ERROR [db-error] master db  down.
+
+2019-11-20 10:26:17,725 ERROR [master-db] master db not found.
+
+2019-11-20 10:26:21,364 ERROR [db-error] master db  down.
+
+2019-11-20 10:26:32,010 ERROR [master-db] master db not found.
+
+2019-11-20 10:26:35,734 ERROR [db-error] master db  down.
+
+2019-11-20 10:26:46,336 ERROR [master-db] master db not found.
+
+2019-11-20 10:26:50,022 ERROR [db-error] master db  down.
+
+2019-11-20 10:27:00,537 ERROR [master-db] master db not found.
+
+2019-11-20 10:27:04,345 ERROR [db-error] master db  down.
+
+2019-11-20 10:27:14,669 ERROR [master-db] master db not found.
+
+2019-11-20 10:27:18,542 ERROR [db-error] master db  down.
+
+2019-11-20 10:27:28,986 ERROR [master-db] master db not found.
+
+2019-11-20 10:27:32,680 ERROR [db-error] master db  down.
+
+2019-11-20 10:27:43,223 ERROR [master-db] master db not found.
+
+2019-11-20 10:27:46,996 ERROR [db-error] master db  down.
+
+2019-11-20 10:27:57,453 ERROR [master-db] master db not found.
+
+2019-11-20 10:28:01,233 ERROR [db-error] master db  down.
+
+2019-11-20 10:28:11,694 ERROR [master-db] master db not found.
+
+2019-11-20 10:28:15,463 ERROR [db-error] master db  down.
+
+2019-11-20 10:28:25,864 ERROR [master-db] master db not found.
+
+2019-11-20 10:28:29,703 ERROR [db-error] master db  down.
+
+2019-11-20 10:28:40,082 ERROR [master-db] master db not found.
+
+2019-11-20 10:28:43,875 ERROR [db-error] master db  down.
+
+2019-11-20 10:28:54,760 ERROR [master-db] master db not found.
+
+2019-11-20 10:28:58,094 ERROR [db-error] master db  down.
+
+2019-11-20 10:29:09,002 ERROR [master-db] master db not found.
+
+2019-11-20 10:29:12,768 ERROR [db-error] master db  down.
+
+2019-11-20 10:29:23,227 ERROR [master-db] master db not found.
+
+2019-11-20 10:29:27,014 ERROR [db-error] master db  down.
+
+2019-11-20 10:29:37,479 ERROR [master-db] master db not found.
+
+2019-11-20 10:29:41,235 ERROR [db-error] master db  down.
+
+2019-11-20 10:29:51,714 ERROR [master-db] master db not found.
+
+2019-11-20 10:29:55,488 ERROR [db-error] master db  down.
+
+2019-11-20 10:30:05,920 ERROR [master-db] master db not found.
+
+2019-11-20 10:30:09,726 ERROR [db-error] master db  down.
+
+2019-11-20 10:30:20,163 ERROR [master-db] master db not found.
+
+2019-11-20 10:30:23,927 ERROR [db-error] master db  down.
+
+2019-11-20 10:30:34,436 ERROR [master-db] master db not found.
+
+2019-11-20 10:30:38,172 ERROR [db-error] master db  down.
+
+2019-11-20 10:30:48,674 ERROR [master-db] master db not found.
+
+2019-11-20 10:30:52,446 ERROR [db-error] master db  down.
+
+2019-11-20 10:31:02,954 ERROR [master-db] master db not found.
+
+2019-11-20 10:31:06,687 ERROR [db-error] master db  down.
+
+2019-11-20 10:31:17,080 ERROR [master-db] master db not found.
+
+2019-11-20 10:31:20,960 ERROR [db-error] master db  down.
+
+2019-11-20 10:31:31,311 ERROR [master-db] master db not found.
+
+2019-11-20 10:31:35,088 ERROR [db-error] master db  down.
+
+2019-11-20 10:31:45,475 ERROR [master-db] master db not found.
+
+2019-11-20 10:31:49,319 ERROR [db-error] master db  down.
+
+2019-11-20 10:31:59,600 ERROR [master-db] master db not found.
+
+2019-11-20 10:32:03,483 ERROR [db-error] master db  down.
+
+2019-11-20 10:32:13,774 ERROR [master-db] master db not found.
+
+2019-11-20 10:32:17,610 ERROR [db-error] master db  down.
+
+2019-11-20 10:32:27,887 ERROR [master-db] master db not found.
+
+2019-11-20 10:32:31,782 ERROR [db-error] master db  down.
+
+2019-11-20 10:32:42,161 ERROR [master-db] master db not found.
+
+2019-11-20 10:32:45,897 ERROR [db-error] master db  down.
+
+2019-11-20 10:32:56,524 ERROR [master-db] master db not found.
+
+2019-11-20 10:33:00,169 ERROR [db-error] master db  down.
+
+2019-11-20 10:33:10,749 ERROR [master-db] master db not found.
+
+2019-11-20 10:33:14,532 ERROR [db-error] master db  down.
+
+2019-11-20 10:33:46,962 WARN useAddressServer:true
+
+2019-11-20 10:33:47,106 WARN isQuickStart:false
+
